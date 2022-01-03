@@ -1,0 +1,19 @@
+p, th, td, button {
+  font-family: Lato;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.bigblue {
+  background-color: DodgerBlue;
+  color: white;
+  border: 0;
+  cursor: pointer;
+}
+table th {
+  background-color: DodgerBlue;
+}
+.biggrey {
+  background-color: rgb(48, 46, 46);
+  color: white
+}
